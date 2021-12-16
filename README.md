@@ -4,7 +4,7 @@
 
 need mysql installed in system  and a mysql-python connector;
 tables to be generated in them
-
+![] photo/Screenshot%20(12).png
 +-------------------+
 | Tables_in_parking |
 +-------------------+
